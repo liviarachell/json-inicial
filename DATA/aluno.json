@@ -1,0 +1,29 @@
+{   
+  "alunos": [
+    {
+      "idaluno": 1,
+      "idusuario": 1,
+      "pontuacaoAtual": 5400,
+      "nivelAtual": 12,
+      "livrosLidos": 8,
+      "diasSequencia": 2
+    },
+    {
+        "idaluno": 2,
+        "idusuario": 4,
+        "pontuacaoAtual": 3200,
+        "nivelAtual": 8,
+        "livrosLidos": 5,
+        "diasSequencia": 5
+    },
+    {
+        "idaluno": 3,
+        "idusuario": 5,
+        "pontuacaoAtual": 1500,
+        "nivelAtual": 4,
+        "livrosLidos": 2,
+        "diasSequencia": 1
+    }
+  ]
+}
+  

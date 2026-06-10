@@ -1,0 +1,94 @@
+{
+  "livros": [
+    {
+      "idlivro": 1,
+      "titulo": "Capitães da Areia",
+      "autor": "Jorge Amado",
+      "genero": "Romance",
+      "ano": 1937,
+      "xp": 250,
+      "dificuldade": "Fácil",
+      "arquivoUrl": "pdfs/testepadrao.pdf"
+    },
+    {
+      "idlivro": 2,
+      "titulo": "O Cortiço",
+      "autor": "Aluísio Azevedo",
+      "genero": "Naturalismo",
+      "ano": 1890,
+      "xp": 450,
+      "dificuldade": "Fácil",
+      "arquivoUrl": "pdfs/testepadrao.pdf"
+    },
+    {
+      "idlivro": 3,
+      "titulo": "Dom Casmurro",
+      "autor": "Machado de Assis",
+      "genero": "Romance",
+      "ano": 1899,
+      "xp": 700,
+      "dificuldade": "Difícil",
+      "arquivoUrl": "pdfs/testepadrao.pdf"
+    },
+    {
+      "idlivro": 4, 
+        "titulo": "Vidas Secas",
+        "autor": "Graciliano Ramos",
+        "genero": "Romance",
+        "ano": 1933,
+        "xp": 350,
+        "dificuldade": "Médio",
+        "arquivoUrl": "pdfs/testepadrao.pdf"
+    },
+    {
+      "idlivro": 5,
+        "titulo": "O Primo Basílio",
+        "autor": "José Maria de Eça de Queirós",
+        "genero": "Realismo",
+        "ano": 1899,
+        "xp": 800,
+        "dificuldade": "Difícil",
+        "arquivoUrl": "pdfs/testepadrao.pdf"
+    },
+    {
+        "idlivro": 6,
+            "titulo": "A Moreninha",
+            "autor": "Joaquim Manuel de Macedo",
+            "genero": "Romance",
+            "ano": 1870,
+            "xp": 500,
+            "dificuldade": "Fácil",
+            "arquivoUrl": "pdfs/testepadrao.pdf"
+    },
+    {
+        "idlivro": 7,
+            "titulo": "O Guarani",
+            "autor": "José de Alencar",
+            "genero": "Romance",
+            "ano": 1859,
+            "xp": 850,
+            "dificuldade": "Difícil",
+            "arquivoUrl": "pdfs/testepadrao.pdf"
+    },
+    {
+        "idlivro": 9,
+            "titulo": "Senhora",
+            "autor": "José de Alencar",
+            "genero": "Romance",
+            "ano": 1875,
+            "xp": 600,
+            "dificuldade": "Médio",
+            "arquivoUrl": "pdfs/testepadrao.pdf"
+    },
+    {
+        "idlivro": 10,
+            "titulo": "O Mulato",
+            "autor": "Aluísio Azevedo",
+            "genero": "Naturalismo",
+            "ano": 1890,
+            "xp": 450,
+            "dificuldade": "Fácil",
+            "arquivoUrl": "pdfs/testepadrao.pdf"
+    }
+    ]
+}

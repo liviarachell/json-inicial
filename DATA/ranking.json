@@ -1,0 +1,19 @@
+{
+  "ranking": [
+    {
+      "posicao": 1,
+      "nome": "Flora Lira",
+      "xp": 12450
+    },
+    {
+      "posicao": 2,
+      "nome": "Júlia Oliveira",
+      "xp": 11200
+    },
+    {
+      "posicao": 3,
+      "nome": "Carlos Pereira",
+      "xp": 10800
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "questoes": [
+    {
+      "idquestao": 1,
+      "idquiz": 1,
+      "enunciado": "Quem escreveu Dom Casmurro?",
+      "alternativaA": "José de Alencar",
+      "alternativaB": "Machado de Assis",
+      "alternativaC": "Jorge Amado",
+      "alternativaD": "Clarice Lispector",
+      "respostaCorreta": "B"
+    },
+    {
+        "idquestao": 2,
+        "idquiz": 1,
+        "enunciado": "Qual é o nome do protagonista de Dom Casmurro?",
+        "alternativaA": "Bento Santiago",
+        "alternativaB": "Capitães da Areia",
+        "alternativaC": "Bentinho",
+        "alternativaD": "Capitu",
+        "respostaCorreta": "C"
+    },
+    {
+        "idquestao": 3,
+        "idquiz": 1,
+        "enunciado": "Quem é a personagem feminina central em Dom Casmurro?",
+        "alternativaA": "Capitu",
+        "alternativaB": "Bento Santiago",
+        "alternativaC": "José de Alencar",
+        "alternativaD": "Machado de Assis",
+        "respostaCorreta": "A"
+    },
+    {
+        "idquestao": 4,
+        "idquiz": 1,
+        "enunciado": "Qual é o tema principal de Dom Casmurro?",
+        "alternativaA": "Amor e traição",
+        "alternativaB": "Guerra e paz",
+        "alternativaC": "Família e sociedade",
+        "alternativaD": "Natureza e ambiente",
+        "respostaCorreta": "A"
+    }
+
+
+    {
+        "idquestao": 5,
+        "idquiz": 2,
+        "enunciado": "Quem é o autor de O Cortiço?",
+        "alternativaA": "Aluísio Azevedo",
+        "alternativaB": "Jorge Amado",  
+        "alternativaC": "Machado de Assis",
+        "alternativaD": "Graciliano Ramos",
+        "respostaCorreta": "A"
+    },
+    {
+        "idquestao": 6,
+        "idquiz": 2,
+        "enunciado": "Qual é o cenário principal de O Cortiço?",
+        "alternativaA": "Uma fazenda",
+        "alternativaB": "Um cortiço",
+        "alternativaC": "Uma escola",
+        "alternativaD": "Um hospital",
+        "respostaCorreta": "B"
+    },
+    {
+        "idquestao": 7,
+        "idquiz": 2,
+        "enunciado": "Qual é o tema central de O Cortiço?",
+        "alternativaA": "Amor e amizade",
+        "alternativaB": "Guerra e paz",
+        "alternativaC": "Vida urbana e desigualdade social",
+        "alternativaD": "Natureza e ambiente",
+        "respostaCorreta": "C"
+    },
+    {
+        "idquestao": 8,
+        "idquiz": 2,
+        "enunciado": "Qual é o cenário principal de O Cortiço?",
+        "alternativaA": "Uma fazenda",
+        "alternativaB": "Um cortiço",
+        "alternativaC": "Uma escola",
+        "alternativaD": "Um hospital",
+        "respostaCorreta": "B"
+    },
+    {
+        "idquestao": 9,
+        "idquiz": 3,
+        "enunciado": "Quem é o autor de Vidas Secas?",
+        "alternativaA": "Graciliano Ramos",
+        "alternativaB": "Jorge Amado",  
+        "alternativaC": "Machado de Assis",
+        "alternativaD": "Aluísio Azevedo",
+        "respostaCorreta": "A"
+    },
+    {
+        "idquestao": 10,
+        "idquiz": 3,
+        "enunciado": "Qual é o cenário principal de Vidas Secas?",
+        "alternativaA": "Uma fazenda no sertão nordestino",
+        "alternativaB": "Um cortiço",
+        "alternativaC": "Uma escola",
+        "alternativaD": "Um hospital",
+        "respostaCorreta": "A"
+    },
+    {
+        "idquestao": 11,
+        "idquiz": 3,
+        "enunciado": "Qual é o tema central de Vidas Secas?",
+        "alternativaA": "Amor e amizade",
+        "alternativaB": "Guerra e paz",
+        "alternativaC": "Vida rural e dificuldades sociais",
+        "alternativaD": "Natureza e ambiente",
+        "respostaCorreta": "C"
+    },
+    {
+        "idquestao": 12,
+        "idquiz": 3,
+        "enunciado": "Qual é o nome da família protagonista de Vidas Secas?",
+        "alternativaA": "Família Santiago",
+        "alternativaB": "Família de Sinhá Vitória",
+        "alternativaC": "Família de Fabiano",
+        "alternativaD": "Família de Capitu",
+        "respostaCorreta": "C"
+    }
+  ]
+}

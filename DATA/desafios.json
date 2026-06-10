@@ -1,0 +1,26 @@
+{
+  "desafios": [
+    {
+      "iddesafio": 1,
+      "titulo": "Leitura Diária",
+      "descricao": "Leia 20 páginas de qualquer livro",
+      "xp": 100,
+      "meta": 20,
+      "progresso": 14
+    },
+    {
+      "iddesafio": 2,
+      "titulo": "Sequência de Fogo",
+      "descricao": "Mantenha sua sequência por 7 dias",
+      "xp": 200,
+      "concluido": true
+    },
+    {
+      "iddesafio": 3,
+      "titulo": "Explorador",
+      "descricao": "Inicie a leitura de um novo livro",
+      "xp": 120,
+      "concluido": false
+    }
+  ]
+}

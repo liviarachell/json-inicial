@@ -1,0 +1,22 @@
+{
+  "quizzes": [
+    {
+      "idquiz": 1,
+      "titulo": "Quiz Dom Casmurro",
+      "pontuacao": 100,
+      "dificuldade": "Médio"
+    },
+    {
+      "idquiz": 2,
+      "titulo": "Quiz O Cortiço",
+      "pontuacao": 150,
+      "dificuldade": "Fácil"
+    },
+    {
+      "idquiz": 3,
+      "titulo": "Quiz Vidas Secas",
+      "pontuacao": 200,
+      "dificuldade": "Difícil"
+    }
+  ]
+}

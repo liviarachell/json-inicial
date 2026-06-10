@@ -1,0 +1,36 @@
+{
+  "usuarios": [
+    {
+      "idusuario": 1,
+      "nome": "Flora Lira",
+      "cpf": "123.456.789-00",
+      "email": "floralira@gmail.com",
+      "senha": "@Abc123",
+      "telefone": "(12)99999-9999"
+    },
+    {
+        "idusuario": 2,
+        "nome": "João Silva",
+        "cpf": "987.654.321-00",
+        "email": "joao.silva@gmail.com",
+        "senha": "@Abc234",
+        "telefone": "(12)99999-9998"
+    },
+    {
+        "idusuario": 3,
+        "nome": "Ana Carvalho",
+        "cpf": "456.789.123-00",
+        "email": "ana.carvalho@gmail.com",
+        "senha": "@Abc345",
+        "telefone": "(12)99999-9997"
+    },
+    {
+            "idusuario": 4,
+            "nome": "Carlos Pereira",
+            "cpf": "321.654.987-00",
+            "email": "carlos.pereira@gmail.com",
+            "senha": "@Abc456",
+            "telefone": "(12)99999-9996"
+    }
+  ]
+}

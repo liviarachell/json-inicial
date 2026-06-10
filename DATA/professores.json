@@ -1,0 +1,16 @@
+{
+  "professores": [
+    {
+      "idprofessor": 1,
+      "idusuario": 2,
+      "especialidade": "Literatura Brasileira",
+      "registroFuncional": "PROF001"
+    },
+    {
+        "idprofessor": 2,
+        "idusuario": 3,
+        "especialidade": "Literatura Portuguesa",
+        "registroFuncional": "PROF002"
+    }
+  ]
+}

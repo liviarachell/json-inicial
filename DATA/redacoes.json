@@ -1,0 +1,11 @@
+{
+  "redacoes": [
+    {
+      "idredacao": 1,
+      "idaluno": 1,
+      "tema": "A importância da leitura",
+      "texto": "Texto da redação...",
+      "nota": 900
+    }
+  ]
+}
